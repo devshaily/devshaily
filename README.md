@@ -5,8 +5,9 @@ AI/ML Engineer
 --------------
 
 * 🌍  I'm based in South Korea and Working as an AI Control Tech Engineer at FlexiGo Inc.
-* 👨‍🎓  Ex-Research Assistant at MIP Lab (Artificial Intelligence/Machine Learning/Deep Learning/Medical Imaging), Chosun University.
-* 📚  Graduated with Master's Degree in Information & Communication Engineering from Chosun University.
+* 👨‍🎓  Ex-Research Assistant at MIP Lab, Chosun University.
+      - Research Focus: Artificial Intelligence/Machine Learning/Deep Learning/Medical Imaging     
+* 📚  Graduated with Master's Degree (Information & Communication Engineering), Chosun University.
 * 🖥️  See my portfolio at [MyPortfolio](http://shaily.my.canva.site/)
 * ✉️  You can contact me at [shaily.bajpai19@gmail.com](mailto:shaily.bajpai19@gmail.com)
 * 🧠  I'm currently working on new trends in AI & ML, and exploring LLMs/VLMs
