@@ -4,7 +4,7 @@ Hi 👋 My name is Shaily Bajpai
 AI/ML Engineer
 --------------
 
-* 🌍  I'm based in South Korea and Working as an AI Control Tech Engineer at FlexiGo Inc.
+* 🌍  I'm based in South Korea and Working as an AI Engineer (Control Tech Department) at FlexiGo Inc.
 * 👨‍🎓  Ex-Research Assistant at MIP Lab, Chosun University.Research Focus: Artificial Intelligence/Machine Learning/Deep Learning/Medical Imaging     
 * 📚  Graduated with Master's Degree (Information & Communication Engineering), Chosun University.
 * 🖥️  See my portfolio at [MyPortfolio](http://shaily.my.canva.site/)
