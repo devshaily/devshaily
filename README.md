@@ -8,7 +8,7 @@ AI/ML Engineer
 * 👨‍🎓  Ex-Research Assistant at MIP Lab, Chosun University.Research Focus: Artificial Intelligence/Machine Learning/Deep Learning/Medical Imaging     
 * 📚  Graduated with Master's Degree (Information & Communication Engineering), Chosun University.
 * 🖥️  See my portfolio at [MyPortfolio](http://shaily.my.canva.site/)
-* ✉️  You can contact me at [shaily.bajpai19@gmail.com](mailto:shaily.bajpai19@gmail.com)
+* ✉️  You can contact me at [shaily.bajpai19@gmail.com](mailto:shailybajpai.01@gmail.com)
 * 🧠  I'm currently working on new trends in AI & ML, and exploring LLMs/VLMs
 * 👥  I'm looking to collaborate on your next AI projects
 
