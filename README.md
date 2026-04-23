@@ -3,7 +3,8 @@
 ## AI/ML Engineer
 
 * 🌍  I'm based in South Korea and Working as an AI Engineer (Control Tech Department) at FlexiGo Inc.
-* 👨‍🎓  Ex-Research Assistant at MIP Lab, Chosun University. Research Focus: Anomaly Detection/ Computer Vision/Machine Learning/Deep Learning/Medical Imaging
+* 👨‍🎓  Ex-Research Assistant at Multimedia Information Processing (MIP) Lab, Chosun University.
+* 🔬  Research Focus: Anomaly Detection/ Computer Vision/Machine Learning/Deep Learning/Medical Imaging
 * 📚  Graduated with Master's Degree (Information & Communication Engineering), Chosun University.
 * 🖥️  See my portfolio at [MyPortfolio](https://devshaily.github.io/)
 * ✉️  You can contact me at [shailybajpai.01@gmail.com](mailto:shailybajpai.01@gmail.com)
